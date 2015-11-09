@@ -1,1 +1,1 @@
-# lira-settings
+# lirc-settings
